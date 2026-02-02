@@ -66,6 +66,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
 - [richfetch](https://github.com/Rizen54/richfetch) - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
+- [rsfetch](https://github.com/gustafeden/rsfetch) - Fast system fetch with retro console-style boot animation mode. `Rust`
 - [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
 - [rustor](https://github.com/Evren-os/rustor) - A blazing fast fetch tool written in Rust. `Rust`
